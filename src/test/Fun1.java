@@ -6,4 +6,7 @@ public class Fun1 {
 		System.out.println("fun1");
 	}
 	
+	public String sss(){
+		return "111";
+	}
 }
