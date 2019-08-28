@@ -8,6 +8,7 @@ public class Fun1 {
 	}
 	
 	public String sss(){
+		System.out.println("xxxx");
 		return "111";
 	}
 }
