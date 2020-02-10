@@ -8,6 +8,6 @@ public class Fun1 {
 	}
 	
 	public String getcount(){
-		return "this is master";
+		return "this is master2";
 	}
 }
