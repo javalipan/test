@@ -8,6 +8,6 @@ public class Fun1 {
 	}
 	
 	public String getcount(){
-		return "1111";
+		return "this is develop";
 	}
 }
