@@ -9,5 +9,5 @@ public class Fun1 {
 	public String getcount(){
 		return "this is master";
 	}
-	//dev 修改
+	//dev2 修改
 }
