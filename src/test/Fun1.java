@@ -3,7 +3,7 @@ package test;
 public class Fun1 {
 
 	public static void main(String[] args) {
-		System.out.println("this is master ");		//master修改了
+		System.out.println("this is master ");		//master2修改了
 	}
 	
 	public String getcount(){
